@@ -51,10 +51,6 @@ Contributions are **welcome**! 🚀 To contribute:
    ```
 5. **Open a pull request.** 🔥
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE). 📄
-
 ## 📞 Contact
 
 For any inquiries or feedback, feel free to reach out:
